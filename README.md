@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Some stats](https://github-readme-stats.vercel.app/api?username=Wyverns010&count_private=true&show_icons=true)
 
 
 
